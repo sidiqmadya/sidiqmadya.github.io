@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-12-27T19:36:49+11:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-12-27-article-in-ocean/",
+    "title": "Article in Ocean",
+    "description": "Uji Coba Dulu.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-12-27",
+    "categories": [],
+    "contents": "\r\nTes artikel written\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-12-27T19:44:14+11:00",
+    "input_file": "article-in-ocean.knit.md"
   }
 ]

@@ -1,0 +1,21 @@
+---
+title: "Article in Ocean"
+description: |
+  Uji Coba Dulu.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 2022-12-27
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Tes artikel written
+
+
